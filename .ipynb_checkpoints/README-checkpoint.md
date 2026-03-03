@@ -1,6 +1,6 @@
 # Skills-Lab-6
+Group Members:
 Anish Satish, Luke Douglas
 
-I will piss on margrit thatcher's grave
-
-Testing testing 1 2 3
+## Description
+This program prompts the user for their name and a word they love. It then randomly decides if the word loves the user back and reports that data to the user.
